@@ -1,8 +1,6 @@
 # fanthome_controller
-
-//Unity Wrmhl Alternative controller for Global Game Jame
-//https://github.com/relativty/wrmhl
-Maxime Coutte Peroumal Corne
+Unity Wrmhl Alternative controller    
+https://github.com/relativty/wrmhl by Maxime Coutte Peroumal Corne
 
 # Librairies
 * LiquidCrystal_I2C
