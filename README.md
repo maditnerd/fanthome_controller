@@ -8,7 +8,7 @@ https://github.com/relativty/wrmhl by Maxime Coutte Peroumal Corne
 
 # BOM / Wiring
 ![fanthome wiring](docs/fanthome_controller.png)
-
+https://github.com/usini/usini-cards/blob/master/diagrams/controls/fanthome_controller.svg
 
 # Serial Protocol
 ## Knob
