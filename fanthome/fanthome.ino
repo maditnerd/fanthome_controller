@@ -46,7 +46,7 @@ int analog_pins[2] = {A1, A2}; //Pins where analog devices are plugged (ex:knobs
 int analog_values[2] = { -1, -1};
 
 unsigned long analog_debounce[2] = {0, 0}; //
-unsigned long analog_debounce_delay = 50;
+unsigned long analog_debounce_delay = 200;
 
 void setup() {
   Serial.begin(250000);
