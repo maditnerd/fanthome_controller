@@ -7,7 +7,7 @@ https://github.com/relativty/wrmhl by Maxime Coutte Peroumal Corne
 * FastLed
 
 # BOM / Wiring
-![fanthome wiring](docs/fanthome_controller.png)
+![fanthome wiring](docs/fanthome_controller.jpg)
 https://github.com/usini/usini-cards/blob/master/diagrams/controls/fanthome_controller.svg
 
 # Serial Protocol
